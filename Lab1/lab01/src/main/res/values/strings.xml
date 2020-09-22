@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="text">Life Cycle Methods Demonstration</string>
+
+    <string name="onCreate">OnCreate() executed</string>
+    <string name="onStart">OnStart() executed</string>
+    <string name="MainActivity">Main Activity:</string>
+    <string name="AIActivity">AIActivity</string>
+    <string name="VRActivity">VRActivity</string>
+
+    <string-array name="ActivityList">
+        <item>AIActivity</item>
+        <item>VRActivity</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,3 @@
+rootProject.name='AlenAlimkhanov_CENG319Lab1_Ex1'
+include ':app', ':Activity101', ':ConstraintLayout', ':FragmentsExample', ':PassDataActivity', ':SimpleDataBinding', ':SimpleFragmentsExample', ':SimpleIntent', ':SimpleLayoutManagers', ':UsingSimpleResources', ':zxc', ':qwe', ':appM', ':appMy', ':app123', ':mykyta'
+include ':lab01'
